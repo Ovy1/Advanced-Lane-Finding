@@ -52,9 +52,6 @@ In the method Findline(), code exists to figure out frames where no lines could 
 sliding window search, or if the line gap was an outlier - which prompted a throw-away
 frame(see Note after this section). In such scenarios we fall back to the previous frame for now
 
-```
-dd
-```
 
 #### 5. Describe how (and identify where in your code) you calculated the radius of curvature of the
 lane and the position of the vehicle with respect to center.
